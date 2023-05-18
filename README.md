@@ -48,20 +48,87 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+X-AXIS ASSEMBLY:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![Screenshot 2023-05-18 181756](https://github.com/Subalakshmisuresh/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121957896/91671b1b-f575-4a09-86bf-129f2ba962c2)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+SMOOTH ROD:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+Smooth rods are typically used to support and guide the print head and print bed as they move.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+BEARING:
 
-## Output:
+Bearings allow things to spin freely while fixed structurally in place using bearings with your 3D prints is actually really simple
 
-### Name: 
-### Register Number:
+IDLER:
+
+An idler wheel to push the filament into the teeth of the drive wheel. An idler wheel usually is a round bearing pushed by a spring or a rubber bushing.
+Y-AXIS ASSEMBLY.
+
+EXTRUDER:
+
+An extruder ejects material in liquid or semi-liquid form in order to deposit it in successive layers within the 3D printing volume.
+
+MOTOR:
+
+Motors are used to move the extruder or the build platform alone the x, y, and z axis.
+
+Y-AXIS ASSEMBLY:
+
+![Screenshot 2023-05-18 181906](https://github.com/Subalakshmisuresh/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121957896/01cea8ff-d559-4f5f-ab77-69451acba420)
+ 
+ Y-AXIS SUPPORTER:
+
+The Y axis supporter on a printer support the movement in forward and backward.
+ 
+HORIZONTAL AND VERTICAL THREADED RODS:
+ 
+ Threaded rod is commonly used to connect two objects together, such as wood or metal, or to provide a connection between concrete and another material.
+ 
+ SMOOTH ROD:
+ 
+ Smooth rods are typically used to support and guide the print head and print bed as they move.
+ 
+ PULLEY:
+ 
+ A 3D printer pulley is a small mechanical device used to help guide and position the print head.
+
+MOTOR:
+ 
+ Motors are used to move the extruder or the build platform alone the x, y, and z axis.
+ 
+ Y-AXIS FRAME:
+
+The Y-axis frame refers to the structural component of a 3D printer that supports and guides the movement of the print bed or build plate along the Y-axis.
+
+Y-AXIS BASE:
+
+The Y-axis base in 3D printing refers to the foundational component of a 3D printer that provides support and stability for the Y-axis movement.
+
+ Z-AXIS ASSEMBLY:
+
+![Screenshot 2023-05-18 181955](https://github.com/Subalakshmisuresh/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121957896/d6985444-9249-4b35-8861-dd3927d7f812)
+
+Z-AXIS ROD:
+
+The Z-axis rod is used to control the vertical movement of the print head or the print bed during the printing process.
+
+Z-AXIS TOP COVER:
+
+The Z-axis top cover refers to a protective or enclosing component that is positioned at the uppermost part of the Z-axis assembly or structure in a 3D printer.
+
+MOTOR:
+
+Motors are used to move the extruder or the build platform alone the x, y, and z axis.
+
+PLAYING WITH AXIS:
+
+![Screenshot 2023-05-18 182513](https://github.com/Subalakshmisuresh/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121957896/bd247caf-6e7f-4136-8e0a-fe3e91d29b2e)
+
+
+
+### Name: SUBALAKSHMI.S
+### Register Number: 212222100051
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
